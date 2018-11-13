@@ -9,5 +9,5 @@ spec:
     - ReadWriteMany
   nfs:
     # FIXME: use the right IP
-    server: 35.237.75.82 
+    server: 35.243.165.118 
     path: "/data"
